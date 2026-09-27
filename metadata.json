@@ -1,0 +1,6 @@
+{
+  "name": "SCROLL Research Logger",
+  "description": "Smart Content Recognition for Online Lifestyle Logging: research media tracker, demographic and survey data entry, and tamper-proof researcher data vault for ABM Senior High students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
